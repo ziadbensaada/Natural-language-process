@@ -17,4 +17,4 @@ In conclusion, the fine-tuning of the GPT2 model and subsequent text generation 
 
 This project showcases the potential applications of transformer models like GPT2 in various domains, including creative writing, content generation, and conversational agents. With further experimentation and optimization, transformer-based models continue to push the boundaries of what's achievable in natural language understanding and generation tasks.
 
-[![My LinkedIn](/https://www.linkedin.com/in/ziad-ben-saada-850219226/)
+[![My LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ziad-ben-saada-850219226/)
